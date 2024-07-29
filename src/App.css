@@ -1,0 +1,24 @@
+.bottom-shadow {
+    border-bottom: 1px solid rgb(28, 22, 22);
+
+}
+
+.right-shadow {
+    border-right: 1px solid rgb(28, 22, 22);
+}
+
+.button-hover:hover {
+    background-color: #E8E8E8;
+}
+
+.add-member {
+    width: calc(100% - 8px);
+
+    height: calc(100% - 8px);
+
+    box-sizing: border-box;
+    padding: 4px;
+
+    outline: none;
+    border: none;
+}
